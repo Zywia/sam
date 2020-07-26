@@ -4,7 +4,7 @@
 # version (0 for SAM-VGG and 1 for SAM-ResNet)
 version = 1
 # batch size
-b_s = 1
+b_s = 128
 # number of rows of input images
 shape_r = 240
 # number of cols of input images
